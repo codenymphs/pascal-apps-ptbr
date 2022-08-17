@@ -2,15 +2,14 @@
 Inicie no mundo da programção com pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da programação de computadores.    
 > Esta linguagem pode ser considerada `old school`, mas recomendo fortemente sua aprendizagem. [^author]
 
-> * _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
-> * Execute o codigo no teminal `./playground`
-
 ~~~pascal
-PROGRAM playGround(pascal);
+PROGRAM PlayGround(pascal);
 BEGIN   
         Writeln('Hello,World!');
 END.    
 ~~~
+> * _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
+> * Execute o codigo no teminal `./playground`
 
 # Desfrute de todo o conteudo do guia
 | Pratique o _**Guia**_              |  
