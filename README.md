@@ -15,7 +15,7 @@ END.
 > 2. Resolva os Desafios   
 > 3. Construa os Projetos   
 
-# Pascal, Guia do Programador
+# :card_index: Pascal, Guia do Programador
 
 ## [Guia Basico](1-guia-basico/README.md)
 Construindo um programa basico de dados simples.

@@ -1,4 +1,4 @@
-#  Guia Basico
+# :card_index: Guia Basico
 > Basic Guide
 
 | # | Capitulo | Link |
