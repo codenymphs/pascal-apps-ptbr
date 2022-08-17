@@ -1,6 +1,4 @@
 # Começe a programar agora!  
-`Start programming now!`
-
 > utilize o compilador `fpc`. 
 > _e utilize o codigo no terminal `fpc playground.pas` para criar seu primeiro programa.alg_  
 > e execute novamente no teminal `./playground`
