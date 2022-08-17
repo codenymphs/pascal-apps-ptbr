@@ -3,7 +3,7 @@ Inicie no mundo da programção com pascal, linguagem poderosa e que fornece uma
 > Esta linguagem pode ser considerada `old school`, mas recomendo fortemente sua aprendizagem. [^author]
 
 ~~~pascal
-PROGRAM PlayGround(pascal);
+PROGRAM Playground(Pascal);
 BEGIN   
         Writeln('Hello,World!');
 END.    
