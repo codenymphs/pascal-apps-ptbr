@@ -31,6 +31,6 @@ Construindo e manipulando tipos de dados complexos.
 > 1. Instale o compilador `fpc`. 
 > 2. _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
 > 3. Execute codigo no teminal `./playground`
-____
 
+### Nota de Rodapé
 [^author]: Samuel Oliveira, [@juniobash](https://github.com/juniobash)
