@@ -4,7 +4,7 @@
 > e execute novamente no teminal `./playground`
 
 ~~~pascal
-PROGRAM playgroundPascal;
+PROGRAM Playground(Pascal);
 BEGIN   
         Writeln('Hello,World!');
 END.    
@@ -17,15 +17,15 @@ END.
 
 # Pascal, Guia do Programador
 
-## [:egg: Guia Basico](1-guia-basico/README.md)
+## [Guia Basico](1-guia-basico/README.md)
 Construindo um programa basico de dados simples.
-## [:lizard: Guia Intermediario](2-guia-intermediario/README.md)
+## ~~[Guia Intermediario](2-guia-intermediario/README.md)~~
 Controle e manipulacão de dados simples e compostos
-## [:crocodile: Guia Avançado](3-guia-avancado/README.md)
+## ~~[Guia Avançado](3-guia-avancado/README.md)~~
 Constuindo programas completos e com facilidade.
-## [:dragon: Guia Mestre](4-guia-mestre/README.md)
+## ~~[Guia Mestre](4-guia-mestre/README.md)~~
 Construindo e manipulando tipos de dados complexos.   
 
 # Requisitos
-* Utilize o compilador _fpc_
+* Utilize o compilador ==fpc==
 
