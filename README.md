@@ -1,6 +1,6 @@
 # Começe a programar agora!  
-> Inicie no mundo da programção com a linguagem pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da prorgamação de computadores.    
-> Esta linguagem pode ser considerada `old school`, mas recomento fortemente sua aprendizagem.[ˆ1]
+> Inicie no mundo da programção com pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da prorgamação de computadores.    
+> Esta linguagem pode ser considerada `old school`, mas recomendo fortemente sua aprendizagem. [^author]
 
 ~~~pascal
 PROGRAM playGround(pascal);
@@ -33,4 +33,4 @@ Construindo e manipulando tipos de dados complexos.
 > 3. Execute codigo no teminal `./playground`
 ____
 
-[ˆ1]: Samuel Oliveira, [@juniobash](https://github.com/juniobash)
+[^author]: Samuel Oliveira, [@juniobash](https://github.com/juniobash)
