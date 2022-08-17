@@ -1,12 +1,13 @@
 # Começe a programar agora!  
 > utilize o compilador `fpc`. 
-> _e utilize o codigo `playground.alg` para criar seu primeiro programa.alg_  
+> _e utilize o codigo no terminal `fpc playground.pas` para criar seu primeiro programa.alg_  
+> e execute novamente no teminal `./playground`
 
 ~~~pascal
-program Playground;
-Begin
-	Writeln('Ola Mundo!');
-End.	
+PROGRAM playgroundPascal;
+BEGIN   
+        Writeln('Hello,World!');
+END.    
 ~~~
 
 > **Desfrute de todo o conteudo do guia**
@@ -26,5 +27,5 @@ Constuindo programas completos e com facilidade.
 Construindo e manipulando tipos de dados complexos.   
 
 # Requisitos
-* Utilize o _fpc_
+* Utilize o compilador _fpc_
 
