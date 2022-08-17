@@ -27,5 +27,5 @@ Constuindo programas completos e com facilidade.
 Construindo e manipulando tipos de dados complexos.   
 
 # Requisitos
-* Utilize o compilador ==fpc==
+* Utilize o compilador _fpc_
 
