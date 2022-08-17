@@ -1,6 +1,9 @@
 # Começe a programar agora!  
-> Inicie no mundo da programção com pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da prorgamação de computadores.    
+Inicie no mundo da programção com pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da programação de computadores.    
 > Esta linguagem pode ser considerada `old school`, mas recomendo fortemente sua aprendizagem. [^author]
+
+> * _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
+> * Execute o codigo no teminal `./playground`
 
 ~~~pascal
 PROGRAM playGround(pascal);
@@ -28,9 +31,8 @@ Constuindo programas completos e com facilidade.
 Construindo e manipulando tipos de dados complexos.   
 
 # Requisitos
-> 1. Instale o compilador `fpc`. 
-> 2. _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
-> 3. Execute codigo no teminal `./playground`
+Linux ou macOS
+> * Instale o Compilador `fpc`. 
 
 ### Nota de Rodapé
 [^author]: Samuel Oliveira, [@juniobash](https://github.com/juniobash)
