@@ -1,7 +1,7 @@
 # Começe a programar agora!  
-> utilize o compilador `fpc`. 
-> _e utilize o codigo no terminal `fpc playground.pas` para criar seu primeiro programa.alg_  
-> e execute novamente no teminal `./playground`
+> Instale o compilador `fpc`.    
+> _digite o codigo no terminal `fpc playground.pas` para criar o programa_     
+> e execute codigo no teminal `./playground`
 
 ~~~pascal
 PROGRAM Playground(Pascal);
