@@ -11,9 +11,11 @@ END.
 ~~~
 
 | **Desfrute de todo o conteudo do guia** |
-| Pratique o ==Guia==              |  
-| Resolva os ==Desafios==          |
-| Construa os ==Projetos==         |
+|:---                                     |
+| Pratique o _**Guia**_              |  
+| Consulte os Exemplos de _**Codigos**_              |  
+| Resolva os _**Desafios**_          |
+| Construa os _**Projetos**_         |
 
 # :card_index: Pascal, Guia do Programador
 
