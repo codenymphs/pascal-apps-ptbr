@@ -8,8 +8,8 @@ BEGIN
         Writeln('Hello,World!');
 END.    
 ~~~
-> * _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
-> * Execute o codigo no teminal `./playground`
+> * _Digite o codigo no terminal `fpc pascal_playground.pas` para criar o programa_ 
+> * Execute o codigo no teminal `./pascal_playground` para ver o resultado
 
 # Desfrute de todo o conteudo do guia
 | Pratique o _**Guia**_              |  
