@@ -1,5 +1,7 @@
 # Começe a programar agora!  
-> Instale o compilador `fpc`. _digite o codigo no terminal `fpc playground.pas` para criar o programa_ e execute codigo no teminal `./playground`
+> * Instale o compilador `fpc`. 
+> * _Digite o codigo no terminal `fpc playground.pas` para criar o programa_ 
+> * Execute codigo no teminal `./playground`
 
 ~~~pascal
 PROGRAM Playground(Pascal);
@@ -8,10 +10,10 @@ BEGIN
 END.    
 ~~~
 
-> **Desfrute de todo o conteudo do guia**
-> 1. Pratique o guia  
-> 2. Resolva os Desafios   
-> 3. Construa os Projetos   
+**Desfrute de todo o conteudo do guia**
+1. Pratique o guia  
+2. Resolva os Desafios   
+3. Construa os Projetos   
 
 # :card_index: Pascal, Guia do Programador
 
