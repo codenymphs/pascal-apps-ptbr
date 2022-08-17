@@ -10,13 +10,6 @@ BEGIN
 END.    
 ~~~
 
-| **Desfrute de todo o conteudo do guia** |
-|:---                                     |
-| Pratique o _**Guia**_              |  
-| Consulte os Exemplos de _**Codigos**_              |  
-| Resolva os _**Desafios**_          |
-| Construa os _**Projetos**_         |
-
 # :card_index: Pascal, Guia do Programador
 
 ## [Guia Basico](1-guia-basico/README.md)
@@ -27,6 +20,13 @@ Controle e manipulacão de dados simples e compostos
 Constuindo programas completos e com facilidade.
 ## ~~[Guia Mestre](4-guia-mestre/README.md)~~
 Construindo e manipulando tipos de dados complexos.   
+
+| **Desfrute de todo o conteudo do guia** |
+|:---                                     |
+| Pratique o _**Guia**_              |  
+| Consulte os exemplos de _**Codigos**_              |  
+| Resolva os _**Desafios**_          |
+| Construa os _**Projetos**_         |
 
 # Requisitos
 * Utilize o compilador _fpc_
