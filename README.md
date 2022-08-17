@@ -1,10 +1,9 @@
 # Começe a programar agora!  
-> Inicie no mundo da programção com a linguagem pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da prorgamação de computadores. 
->
-> Esta linguagem pode ser considerada `old school`, mas recomento fortemente sua aprendizagem. [ˆ1]
+> Inicie no mundo da programção com a linguagem pascal, linguagem poderosa e que fornece uma base solida e divertida para aprendizagem da prorgamação de computadores.    
+> Esta linguagem pode ser considerada `old school`, mas recomento fortemente sua aprendizagem.[ˆ1]
 
 ~~~pascal
-PROGRAM Playground(Pascal);
+PROGRAM playGround(pascal);
 BEGIN   
         Writeln('Hello,World!');
 END.    
