@@ -1,6 +1,6 @@
 > ### Basic Guide
 
-|#   |Capitulo |Link|
+|#   | |Capitulo |Link|
 |:---|:---|:---|:---|
 |1   |`int` `float` `caracter` `boolean` | Tipos de Dados Simples|[Link]()|
 |1.1 | `<-` | Atribuição de Dados|[Link]()|
@@ -13,7 +13,7 @@
 
 > ### Intermediate Guide
 
-|#   |Capitulo |Link|
+|#   || Capitulo |Link|
 |:---|:---|:---|:---|
 |2   | `*ponteiro`| Variável de Endereço de Memória|[Link]()|
 |2.1 | `fila[1..10]`| Variável de Vetor de Dados|[Link]()|
@@ -24,8 +24,8 @@
 
 > ### Advanced Guide
 
-|#   |Capitulo |Link|
-|:---|:---|:---|
+|#   || Capitulo |Link|
+|:---|:---|:---|:---|
 |3   | `struct` `record` `class` `objeto` `type`| Tipos de Dados Abstratos e Complexos |[Link]()|
 |3.1 | `func`| Bloco de Códigos de Funções|[Link]()|
 |3.2 | `subprogramas` `package` `subrotinas`| Criando Programas Auxiliares|[Link]()|
@@ -35,8 +35,8 @@
 
 > ### Estrutura e Ordenação de Dados
 
-|#   |Capitulo |Link|
-|:---|:---|:---|
+|#   | |Capitulo |Link|
+|:---|:---|:---|:---|
 |4 | `crescente` `decresente`| Pesquisa e Ordenação de dados|[Link]()|
 |4.1 | `pilha[1..10]`| Pilha de Dados|[Link]()|
 |4.2 | `fila[1..10]`| Fila de Dados|[Link]()|
