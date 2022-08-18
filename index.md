@@ -9,7 +9,7 @@
 |1.4 | `+` `-` `*` `/` `\` `%` `ˆ` | Operando Com numeros|[Link]()|
 |1.5 | `+` | Operando Com Textos|[Link]()|
 |1.6 | `==` `<>` `<` `<=` `>` `>=` | Operando Com Relações|[Link]()|
-|1.7 | `||` `!` `&&`  `XOR` | Operando Com Logica Booleana|[Link]()|
+|1.7 | `\|\|` `!` `&&`  `XOR` | Operando Com Logica Booleana|[Link]()|
 
 > ### Intermediate Guide
 
